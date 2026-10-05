@@ -1,0 +1,6 @@
+{
+  "name": "VORTEX Gaming Platform",
+  "description": "Next-generation browser gaming platform featuring real-time arcade action, roguelike deckbuilding, puzzle challenges, player achievements, and competitive leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
